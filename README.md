@@ -1,5 +1,5 @@
 Der Datensatz stammt aus der WHO-Datenbank und beeinhaltet Daten zu der durchschnittliche Lebenserwartung globaler Länder zwischen den Jahren 2000 und 2015.
-Der Datensatz besitzt eben einen höhen Anteil von fehlenden Daten zum Typ MCAR (Missing-Completely-at-Random) und einen kleinen Anteil zum Typ MAR (Missing-at-random).
+Der Datensatz besitzt einen höhen Anteil von fehlenden Daten zum Typ MCAR (Missing-Completely-at-Random) und einen kleinen Anteil zum Typ MAR (Missing-at-random).
 
 Aus Literaturrecherche werden in dieser Seminararbeit 9 Verfahren bestimmt, die fehlenden Daten zum Typ MCAR und MAR in einem multivariaten Datensatz gut ersetzen können.
 DArunter sind 4 statistoische Ersatzverfahren, 4 Machine Learning Verfahren und 1 Deep Learning Verfahren
